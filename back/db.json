@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "yes",
+      "hello": "no"
+    },
+    {
+      "id": 2,
+      "name": "yes",
+      "hello": "no"
+    }
+  ]
+}
